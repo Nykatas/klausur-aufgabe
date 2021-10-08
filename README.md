@@ -15,7 +15,26 @@ Aufgabe einer Klausur in der 12 Klasse, Gymnasialstufe.
 
 ## Lösung
 
+1. Vorteile der modularen Programmierung:
 
+   - Übersichtlichkeit über das Projekt wird verbessert.
+   - Module können einzeln geplant & programmiert werden.
+   - Mehrere Menschen können an einem sowie an verschiedenen Modulen gleichzeitig arbeiten.
+   - Man muss bestimmte Module nur einmal programmieren und kann sie anschließend immer wieder verwenden.
+
+2. Programmköpfe der Unterprogramme:
+
+```delphi
+function isOnEdgeOfScreen(x, y : Integer):Boolean;
+```
+
+```delphi
+function switchDirection(value : Integer):Integer;
+```
+
+```delphi
+procedure printOutput(output : String);
+```
 
 # Klausur Aufgabe | Praktischer Teil
 
@@ -36,4 +55,4 @@ c² = a² + b² - 2ab * cos(α) und A = √s(s - a)(s - b)(s - c) mit s = U/2
 
 Die Lösung für die oben gestellten Aufgaben des praktischen Teils der Klausur sind im Quellcode zu finden. Dazu einfach die Datei **Unit1.pas** öffnen.
 
-#Viel Spaß! ❤️
+# Viel Spaß! ❤️
