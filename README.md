@@ -1,6 +1,6 @@
 # Klausur Aufgabe | Theoretischer Teil
 
-Aufgabe einer Klausur in der 12 Klasse, Gymnasialstufe.
+> Aufgaben einer Klausur in der 12 Klasse, Gymnasialstufe.
 
 ## Aufgabenstellung
 
@@ -29,7 +29,7 @@ function isOnEdgeOfScreen(x, y : Integer):Boolean;
 ```
 
 ```delphi
-function switchDirection(value : Integer):Integer;
+function switchDirection(newDirection : Integer):Integer;
 ```
 
 ```delphi
@@ -38,7 +38,7 @@ procedure printOutput(output : String);
 
 # Klausur Aufgabe | Praktischer Teil
 
-Aufgabe einer Klausur in der 12 Klasse, Gymnasialstufe.
+> Aufgaben einer Klausur in der 12 Klasse, Gymnasialstufe.
 
 ## Aufgabenstellung
 
@@ -53,6 +53,6 @@ c² = a² + b² - 2ab * cos(α) und A = √s(s - a)(s - b)(s - c) mit s = U/2
 
 ## Lösung
 
-Die Lösung für die oben gestellten Aufgaben des praktischen Teils der Klausur sind im Quellcode zu finden. Dazu einfach die Datei **Unit1.pas** öffnen.
+> Die Lösung für die oben gestellten Aufgaben des praktischen Teils der Klausur sind im Quellcode zu finden. Dazu einfach die Datei **Unit1.pas** öffnen.
 
 # Viel Spaß! ❤️
