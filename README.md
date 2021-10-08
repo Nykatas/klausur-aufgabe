@@ -1,3 +1,22 @@
+# Klausur Aufgabe | Theoretischer Teil
+
+Aufgabe einer Klausur in der 12 Klasse, Gymnasialstufe.
+
+## Aufgabenstellung
+
+1. Nennen Sie die Vorteile der modularen Programmierung.
+
+2. Bei einem Computerspiel wird ein Ball auf dem Spielfeld bewegt und an den Rändern reflektiert, so wie beim Billard. Der Spieler muss versuchen, den Ball zu fangen. Folgende Aufgaben sollen in diesem Projekt von Unterprogramen erledigt werden:
+   - Die Position (x, y : Integer) des Balles wird daraufhin überprüft, ob er sich am Spielfeldrand befindet.
+   - DIe Richtung des Balles kehrt sich um (Vorzeichenwechsel).
+   - Die Anzahl der Treffer werden ausgegeben.
+
+   Schreiben Sie für die Unterprogramme jeweils den Programmkopf.
+
+## Lösung
+
+
+
 # Klausur Aufgabe | Praktischer Teil
 
 Aufgabe einer Klausur in der 12 Klasse, Gymnasialstufe.
