@@ -1,4 +1,4 @@
-# Klausur Aufgabe | Theoretischer Teil
+# 📋 Klausur Aufgabe | Theoretischer Teil
 
 > Aufgaben einer Klausur in der 12 Klasse, Gymnasialstufe.
 
